@@ -99,5 +99,5 @@ theme: hexo-casper
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/yusabudun17/blog
-  branch: gh-pages
+  repo: https://github.com/yusabudun17/yusabudun17.github.io
+  branch: master
