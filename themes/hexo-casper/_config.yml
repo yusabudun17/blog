@@ -83,5 +83,5 @@ navColor: '3c484e'
 baidu: false
 
 # Google Analytics
-googleAnalytics: false
-GA_TRACKING_ID: UA-XXXXXXXXXX-1
+googleAnalytics: true
+GA_TRACKING_ID: UA-159216331-1

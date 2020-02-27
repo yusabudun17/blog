@@ -27,3 +27,10 @@ hexo server
 - Blog posts and pages are in source folder
 - For configuration edit _config.yml
 - For theme configuration edit themes/hexo-casper/_config.yml
+
+## Deploy
+```
+hexo clean
+hexo generate
+hexo deploy
+```
