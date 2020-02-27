@@ -3,7 +3,7 @@ rss:            # link
 favicon: https://i.loli.net/2017/11/26/5a19c0b50432e.png
 blog_logo: 
 header_image: /images/head.jpg
-bio: Yusa Budun, fotograf, dasdasd
+bio: Yüşa Büdün, fotograf, deneme
 post_toc: true
 
 # Keywords
@@ -22,10 +22,10 @@ author_location:
 
 # Social Links
 social:
-  weibo: https://weibo.com/xzhih
-  github: https://github.com/xzhih
-  twitter: https://twitter.com
-  facebook: https://facebook
+  weibo: 
+  github: 
+  twitter: https://twitter.com/yusabudun17
+  facebook: https://facebook/yusabudun17
   telegram:
   bilibili: 
   youtube: 
