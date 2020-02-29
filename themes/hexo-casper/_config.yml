@@ -1,13 +1,13 @@
 # Config
 rss:            # link
-favicon: https://i.loli.net/2017/11/26/5a19c0b50432e.png
+favicon: /images/favicon.jpg
 blog_logo: 
 header_image: /images/head.jpg
-bio: Yüşa Büdün, fotograf, deneme
+bio: Sen Değiş Dünyan Değişsin.
 post_toc: true
 
 # Keywords
-keywords: hexo, casper, ghost, theme
+keywords: yusa, budun, yusabudun, bilim, ozelbilgiler, haberler, blog, gizlibilgiler, gizi, gizemli, gündem, soyalmedya,
 
 # Menu
 menu:
@@ -28,7 +28,8 @@ social:
   facebook: https://facebook/yusabudun17
   telegram:
   bilibili: 
-  youtube: 
+  youtube: https://www.youtube.com/channel/UCXtAY0WP5pX6Io6F26CsDcQ
+  instagram: https://instagram.com/yusabudun17
   # You only can use that I have added, I will keep adding
 
 # Footer Links
