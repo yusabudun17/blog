@@ -34,3 +34,24 @@ hexo clean
 hexo generate
 hexo deploy
 ```
+
+## Ipucları
+
+Blog deploy
+```
+# deploy için adımlar
+# değişiklikleri yap, yeni post eklemek veya post silemk için source/_posts klasörünü editlemen gerekir
+# deploy etmeden pcden denemek için "hexo server" çalıştır http://localhost:4000
+# durdurmak için ctrl c
+hexo clean
+hexo generate
+hexo deploy
+#github'a gel add file de 
+#file ismini CNAME koy file içeriğine yusabudun.com yaz
+```
+
+Blog git senkron
+```
+#git graphe gel src branchine değişikliklerini commitle
+#
+```

@@ -3,18 +3,18 @@ search: Arama
 tags: Etiketler
 tagcloud: Etiker Bulutu
 tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: Page %d Of %b
+prev: Geri
+next: İleri
+comment: Yorumlar
+archive_a: Arşiv
+archive_b: "Arşiv: %s"
+page: Sayfa %d Of %b
 recent_posts: Son Paylaşımlar
-newer: Newer
-older: Older
-share: Share
-powered_by: Powered by
+newer: Yeni
+older: Eski
+share: Paylaş
+powered_by: Hazırlayan
 rss_feed: RSS Feed
 category: Kategori
-tag: Tag
-total: "Total: %s"
+tag: Etiket
+total: "Toplam: %s"
